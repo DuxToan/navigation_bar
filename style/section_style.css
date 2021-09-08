@@ -1,0 +1,7 @@
+section {
+    width: 100%;
+    background-image: url('../src/yourname.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
